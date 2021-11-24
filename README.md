@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
 # Introduction
 These are the collections of `research projects` and `portfolios` that are categorized based on the topics relevant in the field of ML/AI. Also included are `coding exercises` that demonstrates algorithmic problem solving skills.
 <!-- badge colors -->
