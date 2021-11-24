@@ -1,9 +1,8 @@
+<!-- 
+## github doesn't allow CSS for security reason
 <head>
     <link rel="stylesheet" href="style.css">
-</head>
-
-
-
+</head> -->
 # Introduction
 These are the collections of `research projects` and `software engineering portfolios` that are categorized based on the topics relevant in the field of artificial intelligence and machine learning. Also included are `coding exercises` that demonstrates algorithmic problem solving skills.
 
@@ -82,33 +81,6 @@ These are the collections of `research projects` and `software engineering portf
 
 # AI/ML Research Projects
 The projects that involve machine learning and artificial intelligence are listed here.
-
-<svg xmlns="http://www.w3.org/2000/svg">
-
-<foreignObject>
-<div xmlns="http://www.w3.org/1999/xhtml">
-
-<style>
-    table {
-        border: 1px solid white;
-        /* width: 1000px; */
-    }
-    th, td {
-        align-content: center;
-    }
-    a {
-        font-size: 15px;
-        font-weight: bold;
-    }
-    ol li {
-        /* list-style: decimal-leading-zero; */
-        font-size:25px;
-    }
-    li span {
-        font-size:15px;
-    }
-</style>
-
 <ol start="1">
 <li><span>
 
@@ -141,9 +113,6 @@ Some intro here \
 Image, Repo, Url, Website, Org, Code
 
 </ol>
-</div>
-</foreignObject>
-</svg>
 
 <!-- <ol start="1">
 <li><span>
