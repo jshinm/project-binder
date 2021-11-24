@@ -8,5 +8,15 @@ th, td {
 }
 
 a {
+    font-size: 15px;
     font-weight: bold;
+}
+
+ol li {
+    /* list-style: decimal-leading-zero; */
+    font-size:20px;
+}
+
+li span {
+    font-size:15px;
 }
