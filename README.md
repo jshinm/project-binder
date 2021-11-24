@@ -6,7 +6,7 @@
 # Introduction
 These are the collections of `research projects` and `software engineering portfolios` that are categorized based on the topics relevant in the field of artificial intelligence and machine learning. Also included are `coding exercises` that demonstrates algorithmic problem solving skills.
 
-<br>
+<!-- <br> -->
 
 <!-- badge colors -->
 <!-- green,yellow,orange,blue,red,black,brightgreen,yellowgreen,lightgrey -->
@@ -77,7 +77,7 @@ These are the collections of `research projects` and `software engineering portf
     - [HackerRank](#p2)
     - [Codility](#p3)
 
-<br>
+<!-- <br> -->
 
 # AI/ML Research Projects
 The projects that involve machine learning and artificial intelligence are listed here.
@@ -113,39 +113,6 @@ Some intro here \
 Image, Repo, Url, Website, Org, Code
 
 </ol>
-
-<!-- <ol start="1">
-<li><span>
-
-## Extrapolative behavior of ML models </span></li>
-Some intro here \
-Image, Repo, Url, Website, Org, Code
-
-<li><span>
-
-## Automated end-to-end causal inference application </span></li>
-Some intro here \
-Image, Repo, Url, Website, Org, Code
-
-<li><span>
-
-## Human extrapolative behavioral experiment via web application</span></li>
-Some intro here \
-Image, Repo, Url, Website, Org, Code
-
-<li><span>
-
-## Probabilistic linkage of real-world hospital data</span></li>
-Some intro here \
-Image, Repo, Url, Website, Org, Code
-
-<li><span>
-
-## Multivariate time-series hologram biometric signal parsing</span></li>
-Some intro here \
-Image, Repo, Url, Website, Org, Code
-
-</ol> -->
 
 <br>
 
