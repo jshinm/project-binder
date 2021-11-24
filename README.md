@@ -84,26 +84,28 @@ These are the collections of `research projects` and `software engineering portf
 The projects that involve machine learning and artificial intelligence are listed here.
 
 <foreignObject>
-    <style>
-        table {
-            border: 1px solid white;
-            /* width: 1000px; */
-        }
-        th, td {
-            align-content: center;
-        }
-        a {
-            font-size: 15px;
-            font-weight: bold;
-        }
-        ol li {
-            /* list-style: decimal-leading-zero; */
-            font-size:25px;
-        }
-        li span {
-            font-size:15px;
-        }
-    </style>
+<div xmlns="http://www.w3.org/1999/xhtml">
+
+<style>
+    table {
+        border: 1px solid white;
+        /* width: 1000px; */
+    }
+    th, td {
+        align-content: center;
+    }
+    a {
+        font-size: 15px;
+        font-weight: bold;
+    }
+    ol li {
+        /* list-style: decimal-leading-zero; */
+        font-size:25px;
+    }
+    li span {
+        font-size:15px;
+    }
+</style>
 
 <ol start="1">
 <li><span>
@@ -137,6 +139,7 @@ Some intro here \
 Image, Repo, Url, Website, Org, Code
 
 </ol>
+</div>
 </foreignObject>
 
 <!-- <ol start="1">
