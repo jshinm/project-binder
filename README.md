@@ -2,30 +2,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<style>
-    table {
-        border: 1px solid white;
-        /* width: 1000px; */
-    }
 
-    th, td {
-        align-content: center;
-    }
-
-    a {
-        font-size: 15px;
-        font-weight: bold;
-    }
-
-    ol li {
-        /* list-style: decimal-leading-zero; */
-        font-size:25px;
-    }
-
-    li span {
-        font-size:15px;
-    }
-</style>
 
 # Introduction
 These are the collections of `research projects` and `software engineering portfolios` that are categorized based on the topics relevant in the field of artificial intelligence and machine learning. Also included are `coding exercises` that demonstrates algorithmic problem solving skills.
@@ -105,6 +82,36 @@ These are the collections of `research projects` and `software engineering portf
 
 # AI/ML Research Projects
 The projects that involve machine learning and artificial intelligence are listed here.
+
+<foreignObject>
+
+<style>
+    
+    table {
+        border: 1px solid white;
+        /* width: 1000px; */
+    }
+
+    th, td {
+        align-content: center;
+    }
+
+    a {
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    ol li {
+        /* list-style: decimal-leading-zero; */
+        font-size:25px;
+    }
+
+    li span {
+        font-size:15px;
+    }
+
+</style>
+
 <ol start="1">
 <li><span>
 
@@ -137,6 +144,41 @@ Some intro here \
 Image, Repo, Url, Website, Org, Code
 
 </ol>
+
+</foreignObject>
+
+<!-- <ol start="1">
+<li><span>
+
+## Extrapolative behavior of ML models </span></li>
+Some intro here \
+Image, Repo, Url, Website, Org, Code
+
+<li><span>
+
+## Automated end-to-end causal inference application </span></li>
+Some intro here \
+Image, Repo, Url, Website, Org, Code
+
+<li><span>
+
+## Human extrapolative behavioral experiment via web application</span></li>
+Some intro here \
+Image, Repo, Url, Website, Org, Code
+
+<li><span>
+
+## Probabilistic linkage of real-world hospital data</span></li>
+Some intro here \
+Image, Repo, Url, Website, Org, Code
+
+<li><span>
+
+## Multivariate time-series hologram biometric signal parsing</span></li>
+Some intro here \
+Image, Repo, Url, Website, Org, Code
+
+</ol> -->
 
 <br>
 
