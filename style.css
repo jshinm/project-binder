@@ -6,3 +6,7 @@ table {
 th, td {
     align-content: center;
 }
+
+a {
+    font-weight: bold;
+}
