@@ -14,7 +14,7 @@ These are the collections of `research projects` and `software engineering portf
 
 # Table of Contents
 
-- [AI/ML Research Projects](#AI/ML-Research-Projects)
+- <font size=4> AI/ML Research Projects </font>
     - [Extrapolative behavior of ML models](#Extrapolative-behavior-of-ML-models)
         - The project demonstrates comparative difference between various ML models and measure performance against human on a simple yet popular non-linear simulation datasets.
         - <img src="https://img.shields.io/badge/-Machine Learning-blue"> 
