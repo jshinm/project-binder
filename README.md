@@ -83,6 +83,8 @@ These are the collections of `research projects` and `software engineering portf
 # AI/ML Research Projects
 The projects that involve machine learning and artificial intelligence are listed here.
 
+<svg xmlns="http://www.w3.org/2000/svg">
+
 <foreignObject>
 <div xmlns="http://www.w3.org/1999/xhtml">
 
@@ -141,6 +143,7 @@ Image, Repo, Url, Website, Org, Code
 </ol>
 </div>
 </foreignObject>
+</svg>
 
 <!-- <ol start="1">
 <li><span>
