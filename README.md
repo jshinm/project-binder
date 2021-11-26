@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="style.css">
 </head> -->
 # Introduction
-These are the collections of `research projects` and `software engineering portfolios` that are categorized based on the topics relevant in the field of artificial intelligence and machine learning. Also included are `coding exercises` that demonstrates algorithmic problem solving skills.
+These are the collections of `research projects` and `software portfolios` that are categorized based on the topics relevant in the field of artificial intelligence and machine learning. Also included are `coding exercises` that demonstrates algorithmic problem solving skills.
 
 <!-- badge colors -->
 <!-- green,yellow,orange,blue,red,black,brightgreen,yellowgreen,lightgrey -->
