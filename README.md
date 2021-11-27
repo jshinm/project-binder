@@ -92,6 +92,7 @@ Github Repo: https://github.com/jshinm/Inductive-bias-experiment
 
 One of the purposes of machine learning models is a prediction of trend based on the patterns of given data. The issue is that these ML models are interpolative by nature and does not perform well as extrapolators. Despite that, ML models are widely used for forecasting uncharted territory. This project tests examines extrapolative behaviors of the ML algorithms such as `random forest`, `neural networks`, `support vector machines` and measure performance against humans. 
 
+< Image here >
 
 <!-- Most recent addition to this list is a new variant algorithm of random forest known as oblique trees which utilizes   -->
 
