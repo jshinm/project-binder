@@ -3,9 +3,9 @@
 <head>
     <link rel="stylesheet" href="style.css">
 </head> -->
-<img src="https://img.shields.io/github/last-commit/jshinm/project_binder?label=last%20updated">
+<img src="https://img.shields.io/github/last-commit/jshinm/project_binder?label=last%20updated"> ![](https://komarev.com/ghpvc/?username=jshinm&label=Page%20viewed)
 
-<br>
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{jshinm}/count.svg) -->
 
 # Introduction
 These are the collections of `research projects` and `software portfolios` that are categorized based on the topics relevant in the field of artificial intelligence and machine learning. Also included are `coding exercises` that demonstrates algorithmic problem solving skills.
