@@ -3,7 +3,9 @@
 <head>
     <link rel="stylesheet" href="style.css">
 </head> -->
-<img src="https://img.shields.io/github/last-commit/jshinm/project_binder?label=last%20updated"> ![](https://komarev.com/ghpvc/?username=jshinm&label=Page%20viewed)
+<b>
+
+<img src="https://img.shields.io/github/last-commit/jshinm/project-binder?label=last%20updated"> ![](https://komarev.com/ghpvc/?username=jshinm&label=Page%20viewed)
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{jshinm}/count.svg) -->
 
