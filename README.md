@@ -16,7 +16,7 @@ These are the collections of `research projects` and `software portfolios` that 
 
 - <font size=4> AI/ML Research Projects </font>
     - [Extrapolative behavior of ML models](#Extrapolative-behavior-of-ML-models)
-        - The project demonstrates comparative difference between various ML models and measure performance against human on a simple yet popular non-linear simulation datasets.
+        - The project demonstrates comparative difference of extrapolative behavior between various ML models and reports quantitative/qualitative measures of performance against that of human on simple non-linear simulation datasets.
         - <img src="https://img.shields.io/badge/-Machine Learning-blue"> 
             <img src="https://img.shields.io/badge/-AI behavior-blue"> 
             <img src="https://img.shields.io/badge/-Predictive Modeling-blue"> 
@@ -70,10 +70,10 @@ These are the collections of `research projects` and `software portfolios` that 
             <img src="https://img.shields.io/badge/-Matplotlib-darkgreen">
             <img src="https://img.shields.io/badge/-Seaborn-darkgreen">
             <img src="https://img.shields.io/badge/-Mind--X-red">
-- [Coding Exercises](#coding-exercises)
-    - [LeetCode](#p1)
-    - [HackerRank](#p2)
-    - [Codility](#p3)
+- Coding Exercises
+    - [Python](#p1)
+    - [SQL](#p2)
+    - [Bash/Shell](#p3)
 
 # AI/ML Research Projects
 The projects that involve machine learning and artificial intelligence are listed here.
@@ -82,8 +82,14 @@ The projects that involve machine learning and artificial intelligence are liste
 
 ## Extrapolative behavior of ML models
 </span></li>
-Some intro here \
-Image, Repo, Url, Website, Org, Code
+<img src="https://img.shields.io/badge/Python-3.8-blue"> <img src="https://img.shields.io/tokei/lines/github/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/languages/count/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/last-commit/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/license/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/watchers/jshinm/inductive-bias-experiment?label=Repo&style=social">
+
+Github Repo: https://github.com/jshinm/Inductive-bias-experiment
+
+One of the purposes of machine learning models is a prediction of trend based on the patterns of given data. The issue is that these ML models are interpolative by nature and does not perform well as extrapolators. Despite that, ML models are widely used for forecasting uncharted territory. This project tests examines extrapolative behaviors of the ML algorithms such as `random forest`, `neural networks`, `support vector machines` and measure performance against humans. 
+
+
+<!-- Most recent addition to this list is a new variant algorithm of random forest known as oblique trees which utilizes   -->
 
 <li><span>
 
