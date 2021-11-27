@@ -82,7 +82,7 @@ The projects that involve machine learning and artificial intelligence are liste
 
 ## Extrapolative behavior of ML models
 </span></li>
-<img src="https://img.shields.io/badge/Python-3.8-blue"> <img src="https://img.shields.io/tokei/lines/github/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/languages/count/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/last-commit/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/license/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/watchers/jshinm/inductive-bias-experiment?label=Repo&style=social">
+<img src="https://img.shields.io/badge/Python-3.8-blue"> <img src="https://img.shields.io/tokei/lines/github/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/languages/count/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/last-commit/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/license/jshinm/inductive-bias-experiment"> <a href="https://github.com/jshinm/Inductive-bias-experiment"><img src="https://img.shields.io/github/watchers/jshinm/inductive-bias-experiment?label=Repo&style=social"></a>
 
 Github Repo: https://github.com/jshinm/Inductive-bias-experiment
 
