@@ -3,6 +3,10 @@
 <head>
     <link rel="stylesheet" href="style.css">
 </head> -->
+<img src="https://img.shields.io/github/last-commit/jshinm/project_binder?label=last%20updated">
+
+<br>
+
 # Introduction
 These are the collections of `research projects` and `software portfolios` that are categorized based on the topics relevant in the field of artificial intelligence and machine learning. Also included are `coding exercises` that demonstrates algorithmic problem solving skills.
 
@@ -82,7 +86,7 @@ The projects that involve machine learning and artificial intelligence are liste
 
 ## Extrapolative behavior of ML models
 </span></li>
-<img src="https://img.shields.io/badge/Python-3.8-blue"> <img src="https://img.shields.io/tokei/lines/github/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/languages/count/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/last-commit/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/license/jshinm/inductive-bias-experiment"> <a href="https://github.com/jshinm/Inductive-bias-experiment"><img src="https://img.shields.io/github/watchers/jshinm/inductive-bias-experiment?label=Repo&style=social"></a>
+<img src="https://img.shields.io/badge/Python-3.8-blue"> <img src="https://img.shields.io/tokei/lines/github/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/languages/count/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/last-commit/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/license/jshinm/inductive-bias-experiment"> <a href="https://github.com/jshinm/Inductive-bias-experiment"> <img src="https://img.shields.io/github/watchers/jshinm/inductive-bias-experiment?label=Repository&style=social"></a>
 
 Github Repo: https://github.com/jshinm/Inductive-bias-experiment
 
