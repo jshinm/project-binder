@@ -7,6 +7,7 @@
 
 <img src="https://img.shields.io/github/last-commit/jshinm/project-binder?label=last%20updated"> ![](https://komarev.com/ghpvc/?username=jshinm&label=Page%20viewed)
 
+
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{jshinm}/count.svg) -->
 
 # Introduction
@@ -19,8 +20,9 @@ These are the collections of `research projects` and `software portfolios` that 
 <!-- higher concept: blue, language: brown, technology: darkgreen, activity: darkviolet, platform: violet, place: red -->
 
 # Table of Contents
-
-- <font size=4> AI/ML Research Projects </font>
+- [About Me](#About-Me)
+- [Mostly Used Languages](#Mostly-used-languages)
+- AI/ML Research Projects
     - [Extrapolative behavior of ML models](#Extrapolative-behavior-of-ML-models)
         - The project demonstrates comparative difference of extrapolative behavior between various ML models and reports quantitative/qualitative measures of performance against that of human on simple non-linear simulation datasets.
         - <img src="https://img.shields.io/badge/-Machine Learning-blue"> 
@@ -81,6 +83,12 @@ These are the collections of `research projects` and `software portfolios` that 
     - [SQL](#p2)
     - [Bash/Shell](#p3)
 
+# About Me
+[Add contents here]
+
+# Mostly Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshinm&hide=jupyter%20notebook)](https://github.com/jshinm)
+
 # AI/ML Research Projects
 The projects that involve machine learning and artificial intelligence are listed here.
 <ol start="1">
@@ -90,7 +98,7 @@ The projects that involve machine learning and artificial intelligence are liste
 </span></li>
 <img src="https://img.shields.io/badge/Python-3.8-blue"> <img src="https://img.shields.io/tokei/lines/github/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/languages/count/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/last-commit/jshinm/inductive-bias-experiment"> <img src="https://img.shields.io/github/license/jshinm/inductive-bias-experiment"> <a href="https://github.com/jshinm/Inductive-bias-experiment"> <img src="https://img.shields.io/github/watchers/jshinm/inductive-bias-experiment?label=Repository&style=social"></a>
 
-Github Repo: https://github.com/jshinm/Inductive-bias-experiment
+Github Repo: https://github.com/jshinm/inductive-bias-experiment
 
 One of the purposes of machine learning models is a prediction of trend based on the patterns of given data. The issue is that these ML models are interpolative by nature and does not perform well as extrapolators. Despite that, ML models are widely used for forecasting uncharted territory. This project tests examines extrapolative behaviors of the ML algorithms such as `random forest`, `neural networks`, `support vector machines` and measure performance against humans. 
 
@@ -102,6 +110,9 @@ One of the purposes of machine learning models is a prediction of trend based on
 
 ## Automated end-to-end causal inference application 
 </span></li>
+
+Github Repo: --
+
 Some intro here \
 Image, Repo, Url, Website, Org, Code
 
@@ -109,6 +120,9 @@ Image, Repo, Url, Website, Org, Code
 
 ## Human extrapolative behavioral experiment via web application
 </span></li>
+
+Github Repo: https://github.com/jshinm/deepnet-behavioral
+
 Some intro here \
 Image, Repo, Url, Website, Org, Code
 
@@ -116,6 +130,9 @@ Image, Repo, Url, Website, Org, Code
 
 ## Probabilistic linkage of real-world clinical data
 </span></li>
+
+Github Repo: https://github.com/jshinm/probabilistic-linkage
+
 Some intro here \
 Image, Repo, Url, Website, Org, Code
 
@@ -123,10 +140,20 @@ Image, Repo, Url, Website, Org, Code
 
 ## Multivariate time-series hologram biometric signal parsing
 </span></li>
+
+Github Repo: https://github.com/jshinm/hologram-biometric-signal-parsing
+
 Some intro here \
 Image, Repo, Url, Website, Org, Code
 
 </ol>
+
+<!-- TODOS: -->
+<!-- https://github.com/jshinm/glaucoma-resnet -->
+<!-- https://github.com/jshinm/Alzheimers-Disease-Prediction -->
+<!-- https://github.com/jshinm/BIOF509_FINAL_PRJ -->
+<!-- https://github.com/jshinm/BIOF399_FINAL_PRJ -->
+
 
 # Coding Exercises
 Some intro here  
