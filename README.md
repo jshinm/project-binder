@@ -83,7 +83,7 @@ These are the collections of `research projects` and `software portfolios` that 
     - [Algorithm & Data Structure](#Algorithm-&-Data-Structure)
     - [Sorting](#Sorting)
     - [SQL](#SQL)
-    - [Bash & Shell](#Bash-&-Shell)
+    - [Bash & Shell](#Bash--Shell)
 
 # About Me
 [Add contents here]
