@@ -63,6 +63,7 @@ These are the collections of `research projects` and `software portfolios` that 
             <img src="https://img.shields.io/badge/-Data Management-blue"> 
             <img src="https://img.shields.io/badge/-R-brown">
             <img src="https://img.shields.io/badge/-Python-brown">
+            <img src="https://img.shields.io/badge/-Fastlink-darkgreen">
             <img src="https://img.shields.io/badge/-Matplotlib-darkgreen">
             <img src="https://img.shields.io/badge/-Seaborn-darkgreen">
             <img src="https://img.shields.io/badge/-Johns Hopkins -- Center for Data Science in Emergency Medicine-red">
@@ -78,10 +79,11 @@ These are the collections of `research projects` and `software portfolios` that 
             <img src="https://img.shields.io/badge/-Matplotlib-darkgreen">
             <img src="https://img.shields.io/badge/-Seaborn-darkgreen">
             <img src="https://img.shields.io/badge/-Mind--X-red">
-- Coding Exercises
-    - [Python](#p1)
-    - [SQL](#p2)
-    - [Bash/Shell](#p3)
+- Coding
+    - [Algorithm/Data Structure](#Algorithm-Data-Structure)
+    - [Sorting](#Sorting)
+    - [SQL](#SQL)
+    - [Bash/Shell](#Bash/Shell)
 
 # About Me
 [Add contents here]
@@ -155,10 +157,25 @@ Image, Repo, Url, Website, Org, Code
 <!-- https://github.com/jshinm/BIOF399_FINAL_PRJ -->
 
 
-# Coding Exercises
-Some intro here  
-Table here
+# Coding
+The following is the programming exercise that covers various `algorithms` and `data structures`. There is a dedicated section for `sorting`. Also contains is `sql` and `bash/shell` coding challenges.
 
+### Algorithm/Data Structure
 |Problem Name|Platform|Type|
 |----|----|----|
-|[Two Sum](url)|LeetCode|Hashmap|
+|[Example 1](url)|LeetCode|Hashmap|
+
+### Sorting
+|Problem Name|Platform|Type|
+|----|----|----|
+|[Example 1](url)|LeetCode|Hashmap|
+
+### SQL
+|Problem Name|Platform|Type|
+|----|----|----|
+|[Example 1](url)|LeetCode|Hashmap|
+
+### Bash/Shell
+|Problem Name|Platform|Type|
+|----|----|----|
+|[Example 1](url)|LeetCode|Hashmap|
