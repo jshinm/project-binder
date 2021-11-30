@@ -80,10 +80,10 @@ These are the collections of `research projects` and `software portfolios` that 
             <img src="https://img.shields.io/badge/-Seaborn-darkgreen">
             <img src="https://img.shields.io/badge/-Mind--X-red">
 - Coding
-    - [Algorithm/Data Structure](#Algorithm-Data-Structure)
+    - [Algorithm & Data Structure](#Algorithm-&-Data-Structure)
     - [Sorting](#Sorting)
     - [SQL](#SQL)
-    - [Bash/Shell](#Bash/Shell)
+    - [Bash & Shell](#Bash-&-Shell)
 
 # About Me
 [Add contents here]
@@ -160,7 +160,7 @@ Image, Repo, Url, Website, Org, Code
 # Coding
 The following is the programming exercise that covers various `algorithms` and `data structures`. There is a dedicated section for `sorting`. Also contains is `sql` and `bash/shell` coding challenges.
 
-### Algorithm/Data Structure
+### Algorithm & Data Structure
 |Problem Name|Platform|Type|
 |----|----|----|
 |[Example 1](url)|LeetCode|Hashmap|
@@ -175,7 +175,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |----|----|----|
 |[Example 1](url)|LeetCode|Hashmap|
 
-### Bash/Shell
+### Bash & Shell
 |Problem Name|Platform|Type|
 |----|----|----|
 |[Example 1](url)|LeetCode|Hashmap|
