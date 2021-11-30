@@ -165,18 +165,21 @@ The following is the programming exercise that covers various `algorithms` and `
 |----|----|----|
 |[Example 1](url)|LeetCode|Algorithm|
 |[Example 2](url)|LeetCode|Data Structure|
-
+<!-- latex not allowed in github markdown -->
 ### Sorting
 |Name|Best TC|Average TC|Worst TC|Worst SC|
 |-|-|-|-|-|
-|[Bubble Sort](url)|$Ω(N)$|$Θ(N^2)$|$O(N^2)$|$O(1)$|
-|[Selection Sort](url)|$Ω(N^2)$|$Θ(N^2)$|$O(N^2)$|$O(1)$|
-|[Insertion Sort](url)|$Ω(N)$|$Θ(N^2)$|$O(N^2)$|$O(1)$|
-|[Shell Sort](url)|$Ω(N\ logN)$|$Θ(N\ log^2N)$|$O(N\ log^2N)$|$O(1)$|
-|[Heap Sort](url)|$Ω(N\ logN)$|$Θ(N\ logN)$|$O(N\ logN)$|$O(1)$|
-|[Merge Sort](url)|$Ω(N\ logN)$|$Θ(N\ logN)$|$O(N\ logN)$|$O(N)$|
-|[Quick Sort](url)|$Ω(N\ logN)$|$Θ(N\ logN)$|$O(N^2)$|$O(logN)$|
-|[Counting Sort](url)|$Ω(N+K)$|$Θ(N+K)$|$O(N+K)$|$O(K)$|
+|[Bubble Sort](url)|Ω(N)|Θ(N^2)|O(N^2)|O(1)|
+|[Selection Sort](url)|Ω(N^2)|Θ(N^2)|O(N^2)|O(1)|
+|[Insertion Sort](url)|Ω(N)|Θ(N^2)|O(N^2)|O(1)|
+|[Shell Sort](url)|Ω(N log N)|Θ(N log^2 N)|O(N log^2 N)|O(1)|
+|[Heap Sort](url)|Ω(N log N)|Θ(N log N)|O(N log N)|O(1)|
+|[Merge Sort](url)|Ω(N log N)|Θ(N log N)|O(N log N)|O(N)|
+|[Quick Sort](url)|Ω(N log N)|Θ(N log N)|O(N^2)|O(logN)|
+|[Counting Sort](url)|Ω(N+K)|Θ(N+K)|O(N+K)|O(K)|
+|[Tim Sort](url)|Ω(N)|Θ(N log N)|O(N log N)|O(N)|
+
+<iframe src="www.google.com"></iframe>
 
 ### SQL
 |Problem Name|Platform|Type|
