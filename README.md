@@ -163,30 +163,31 @@ The following is the programming exercise that covers various `algorithms` and `
 ### Algorithm & Data Structure
 |Problem Name|Platform|Type|
 |----|----|----|
-|[Example 1](url)|LeetCode|Algorithm|
-|[Example 2](url)|LeetCode|Data Structure|
+|[Example 1|LeetCode|Algorithm|
+|[Example 2|LeetCode|Data Structure|
 <!-- latex not allowed in github markdown -->
 ### Sorting
 |Name|Best TC|Average TC|Worst TC|Worst SC|
 |-|-|-|-|-|
-|[Bubble Sort](url)|Ω(N)|Θ(N^2)|O(N^2)|O(1)|
-|[Selection Sort](url)|Ω(N^2)|Θ(N^2)|O(N^2)|O(1)|
-|[Insertion Sort](url)|Ω(N)|Θ(N^2)|O(N^2)|O(1)|
-|[Shell Sort](url)|Ω(N log N)|Θ(N log^2 N)|O(N log^2 N)|O(1)|
-|[Heap Sort](url)|Ω(N log N)|Θ(N log N)|O(N log N)|O(1)|
-|[Merge Sort](url)|Ω(N log N)|Θ(N log N)|O(N log N)|O(N)|
-|[Quick Sort](url)|Ω(N log N)|Θ(N log N)|O(N^2)|O(logN)|
-|[Counting Sort](url)|Ω(N+K)|Θ(N+K)|O(N+K)|O(K)|
-|[Tim Sort](url)|Ω(N)|Θ(N log N)|O(N log N)|O(N)|
-
-<iframe src="www.google.com"></iframe>
+|[Bubble Sort](./sorting/bubble_sort.md)|Ω(N)|Θ(N^2)|O(N^2)|O(1)|
+|Selection Sort|Ω(N^2)|Θ(N^2)|O(N^2)|O(1)|
+|Insertion Sort|Ω(N)|Θ(N^2)|O(N^2)|O(1)|
+|Shell Sort|Ω(N log N)|Θ(N log^2 N)|O(N log^2 N)|O(1)|
+|Heap Sort|Ω(N log N)|Θ(N log N)|O(N log N)|O(1)|
+|Merge Sort|Ω(N log N)|Θ(N log N)|O(N log N)|O(N)|
+|Quick Sort|Ω(N log N)|Θ(N log N)|O(N^2)|O(logN)|
+|Counting Sort|Ω(N+K)|Θ(N+K)|O(N+K)|O(K)|
+|Tree Sort|Ω(N log N)|Θ(N log N)|O(N^2)|O(N)|
+|Tim Sort|Ω(N)|Θ(N log N)|O(N log N)|O(N)|
+|Smooth Sort|Ω(N)|Θ(N log N)|O(N log N)|O(1)|
+|Radix Sort|Ω(NK)|Θ(NK)|O(NK)|O(N+K)|
 
 ### SQL
 |Problem Name|Platform|Type|
 |----|----|----|
-|[Example 1](url)|LeetCode|Type|
+|[Example 1|LeetCode|Type|
 
 ### Bash & Shell
 |Problem Name|Platform|Type|
 |----|----|----|
-|[Example 1](url)|LeetCode|Type|
+|[Example 1|LeetCode|Type|
