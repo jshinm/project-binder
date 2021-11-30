@@ -79,8 +79,8 @@ These are the collections of `research projects` and `software portfolios` that 
             <img src="https://img.shields.io/badge/-Matplotlib-darkgreen">
             <img src="https://img.shields.io/badge/-Seaborn-darkgreen">
             <img src="https://img.shields.io/badge/-Mind--X-red">
-- Coding
-    - [Algorithm & Data Structure](#Algorithm-&-Data-Structure)
+- Coding <!-- special characters are ignored for linking anchors -->
+    - [Algorithm & Data Structure](#Algorithm--Data-Structure)
     - [Sorting](#Sorting)
     - [SQL](#SQL)
     - [Bash & Shell](#Bash--Shell)
@@ -163,19 +163,27 @@ The following is the programming exercise that covers various `algorithms` and `
 ### Algorithm & Data Structure
 |Problem Name|Platform|Type|
 |----|----|----|
-|[Example 1](url)|LeetCode|Hashmap|
+|[Example 1](url)|LeetCode|Algorithm|
+|[Example 2](url)|LeetCode|Data Structure|
 
 ### Sorting
-|Problem Name|Platform|Type|
-|----|----|----|
-|[Example 1](url)|LeetCode|Hashmap|
+|Name|Best TC|Average TC|Worst TC|Worst SC|
+|-|-|-|-|-|
+|[Bubble Sort](url)|$Ω(N)$|$Θ(N^2)$|$O(N^2)$|$O(1)$|
+|[Selection Sort](url)|$Ω(N^2)$|$Θ(N^2)$|$O(N^2)$|$O(1)$|
+|[Insertion Sort](url)|$Ω(N)$|$Θ(N^2)$|$O(N^2)$|$O(1)$|
+|[Shell Sort](url)|$Ω(N\ logN)$|$Θ(N\ log^2N)$|$O(N\ log^2N)$|$O(1)$|
+|[Heap Sort](url)|$Ω(N\ logN)$|$Θ(N\ logN)$|$O(N\ logN)$|$O(1)$|
+|[Merge Sort](url)|$Ω(N\ logN)$|$Θ(N\ logN)$|$O(N\ logN)$|$O(N)$|
+|[Quick Sort](url)|$Ω(N\ logN)$|$Θ(N\ logN)$|$O(N^2)$|$O(logN)$|
+|[Counting Sort](url)|$Ω(N+K)$|$Θ(N+K)$|$O(N+K)$|$O(K)$|
 
 ### SQL
 |Problem Name|Platform|Type|
 |----|----|----|
-|[Example 1](url)|LeetCode|Hashmap|
+|[Example 1](url)|LeetCode|Type|
 
 ### Bash & Shell
 |Problem Name|Platform|Type|
 |----|----|----|
-|[Example 1](url)|LeetCode|Hashmap|
+|[Example 1](url)|LeetCode|Type|
