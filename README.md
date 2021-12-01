@@ -25,7 +25,8 @@ These are the collections of `research projects` and `software portfolios` that 
 - AI/ML Research Projects
     - [Extrapolative behavior of ML models](#Extrapolative-behavior-of-ML-models)
         - The project demonstrates comparative difference of extrapolative behavior between various ML models and reports quantitative/qualitative measures of performance against that of human on simple non-linear simulation datasets.
-        - <img src="https://img.shields.io/badge/-Machine Learning-blue"> 
+        - <img src="https://img.shields.io/badge/-Extrapolation-blue"> 
+            <img src="https://img.shields.io/badge/-Machine Learning-blue"> 
             <img src="https://img.shields.io/badge/-AI behavior-blue"> 
             <img src="https://img.shields.io/badge/-Predictive Modeling-blue"> 
             <img src="https://img.shields.io/badge/-Python-brown">
@@ -246,11 +247,57 @@ The following is the programming exercise that covers various `algorithms` and `
 |Radix Sort|Ω(NK)|Θ(NK)|O(NK)|O(N+K)|
 
 ### SQL
-|Problem Name|Platform|Type|
+|Problem Name|Platform|Note|
 |----|----|----|
-|Example 1|LeetCode|Type|
+|[Combine Two Tables](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211004_combine_two_tables.sql)|[LeetCode](https://leetcode.com/problems/combine-two-tables)||
+|[Second Highest Salary](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211004_second_highest_salary.sql)|[LeetCode](https://leetcode.com/problems/second-highest-salary)||
+|[Nth Highest Salary](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211005_Nth_highest_salary.sql)|[LeetCode](https://leetcode.com/problems/nth-highest-salary)||
+|[Rank Scores](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211006_rank_scores.sql)|[LeetCode](https://leetcode.com/problems/rank-scores)||
+|[Consecutive Numbers](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211008_consecutive_numbers.sql)|[LeetCode](https://leetcode.com/problems/consecutive-numbers)||
+|[Employees Earning More Than Their Managers](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211011_employees_earning_more.sql)|[LeetCode](https://leetcode.com/problems/employees-earning-more-than-their-managers)||
+|[Duplicate Emails](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_duplicate_emails.sql)|[LeetCode](https://leetcode.com/problems/duplicate-emails)||
+|[Customers Who Never Order](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_customers_who_never_order.sql)|[LeetCode](https://leetcode.com/problems/customers-who-never-order)||
+|[Department Highest Salary](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_department_highest_salary.sql)|[LeetCode](https://leetcode.com/problems/department-highest-salary)||
+|[Department Top Three Salaries](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211013_department_top_3_salaries.sql)|[LeetCode](https://leetcode.com/problems/department-top-three-salaries)||
+|[Delete Duplicate Emails](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_delete_duplicate_emails.sql)|[LeetCode](https://leetcode.com/problems/delete-duplicate-emails)||
+|[Rising Temperature](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_rising_temp.sql)|[LeetCode](https://leetcode.com/problems/rising-temperature)||
+|[Trips and Users](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211020_trips_and_users.sql)|[LeetCode](https://leetcode.com/problems/trips-and-users)||
+|[Big Countries](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211014_big_countries.sql)|[LeetCode](https://leetcode.com/problems/big-countries)||
+|[Classes More Than 5 Students](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211017_classes_more_than_five.sql)|[LeetCode](https://leetcode.com/problems/classes-more-than-5-students)||
+|[Human Traffic of Stadium](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211022_human_traffic_stadium.sql)|[LeetCode](https://leetcode.com/problems/human-traffic-of-stadium)||
+|[Not Boring Movies](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211018_not_boring_movies.sql)|[LeetCode](https://leetcode.com/problems/not-boring-movies)||
+|[Exchange Seats](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211018_exchange_seats.sql)|[LeetCode](https://leetcode.com/problems/exchange-seats)||
+|[Swap Salary](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211019_swap_salary.sql)|[LeetCode](https://leetcode.com/problems/swap-salary)||
+|[Reformat Department Table](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211022_reformat_dep_table.sql)|[LeetCode](https://leetcode.com/problems/reformat-department-table)||
+|[SqlEventsDelta](https://app.codility.com/programmers/trainings/6/sql_events_delta/)|[Codility](https://app.codility.com/programmers/trainings/6/sql_sum/)||
+|[SqlWorldCup](https://github.com/jshinm/sql_mastery/blob/main/codility/20211028_sql_worldcup.sql)|[Codility](https://app.codility.com/programmers/trainings/6/sql_world_cup/)||
+|[Weather Observation](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211021_weather%20observation.sql)|HackerRank||
+|[SQL Project Planning](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211023_sql_project_planning.sql)|HackerRank||
+|[Interviews](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211024_interviews.sql)|HackerRank||
+|[15 Days of SQL](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211029_15-days-sql.sql)|HackerRank||
+|[Japanese Population](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211029_jp_population.sql)|HackerRank||
+|[Aggregation](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211030_aggregation.sql)|HackerRank||
 
-### Bash & Shell
-|Problem Name|Platform|Type|
+### Bash & Shell (to be added)
+|Problem Name|Platform|Note|
 |----|----|----|
-|Example 1|LeetCode|Type|
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
+|[]()|LeetCode||
