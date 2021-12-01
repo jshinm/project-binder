@@ -161,10 +161,74 @@ Image, Repo, Url, Website, Org, Code
 The following is the programming exercise that covers various `algorithms` and `data structures`. There is a dedicated section for `sorting`. Also contains is `sql` and `bash/shell` coding challenges.
 
 ### Algorithm & Data Structure
-|Problem Name|Platform|Type|
+|Problem Name|Platform|Note
 |----|----|----|
-|[Example 1|LeetCode|Algorithm|
-|[Example 2|LeetCode|Data Structure|
+|[Two Sum]()|[LeetCode](https://leetcode.com/problems/two-sum/)|Blind 75 Qs
+|[Two Sum II - Input Array Is Sorted]()|[LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)||
+|[Two Sum IV - Input is a BST]()|[LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)||
+|[Reverse Integer]()|[LeetCode](https://leetcode.com/problems/reverse-integer)||
+|[Palindrome Number]()|[LeetCode](https://leetcode.com/problems/palindrome-number/)||
+|[Roman to Integer]()|[LeetCode](https://leetcode.com/problems/roman-to-integer/)||
+|[Longest Common Prefix]()|[LeetCode](https://leetcode.com/problems/longest-common-prefix/)||
+|[Longest Substring Without Repeating Characters]()|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Blind 75 Qs|
+|[Container With Most Water]()|[LeetCode](https://leetcode.com/problems/container-with-most-water/)|Blind 75 Qs|
+|[Three Sum]()|[LeetCode](https://leetcode.com/problems/3sum)|Blind 75 Qs|
+|[Remove Nth Node From End of List]()|[LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Blind 75 Qs|
+|[Valid Parentheses]()|[LeetCode](https://leetcode.com/problems/valid-parentheses)|Blind 75 Qs|
+|[Merge Two Sorted Lists]()|[LeetCode](https://leetcode.com/problems/merge-two-sorted-lists)|Blind 75 Qs|
+|Merge k Sorted Lists|[LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/)|Blind 75 Qs|
+|[Combination Sum]()|[LeetCode](https://leetcode.com/problems/combination-sum/)|Blind 75 Qs|
+|[Search in Rotated Sorted Array]()|[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)|Blind 75 Qs|
+|[Group Anagrams]()|[LeetCode](https://leetcode.com/problems/group-anagrams)|Blind 75 Qs|
+|[Rotate Image]()|[LeetCode](https://leetcode.com/problems/rotate-image)|Blind 75 Qs|
+|[Maximum Subarray]()|[LeetCode](https://leetcode.com/problems/maximum-subarray)|Blind 75 Qs|
+|[Climbing Stairs]()|[LeetCode](https://leetcode.com/problems/climbing-stairs)|Blind 75 Qs|
+|[Spiral Matrix]()|[LeetCode](https://leetcode.com/problems/spiral-matrix)|Blind 75 Qs|
+|[Jump Game]()|[LeetCode](https://leetcode.com/problems/jump-game)|Blind 75 Qs|
+|[Merge Intervals]()|[LeetCode](https://leetcode.com/problems/merge-intervals)|Blind 75 Qs|
+|[Insert Interval]()|[LeetCode](https://leetcode.com/problems/insert-interval)|Blind 75 Qs|
+|Unique Paths|[LeetCode](https://leetcode.com/problems/unique-paths/)|Blind 75 Qs|
+|[Sort Characters By Frequency]()|[LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/)||
+|[Combination Sum]()|[Codility](https://leetcode.com/problems/combination-sum/)||
+|[BinaryGap]()|[Codility](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)||
+|[CyclicRotation]()|[Codility](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)||
+|[OddOccurrencesInArray]()|[Codility](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)||
+|[FrogJmp]()|[Codility](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)||
+|[PermMissingElem]()|[Codility](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)||
+|[TapeEquilibrium]()|[Codility](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)||
+|[FrogRiverOne]()|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)||
+|[PermCheck]()|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)||
+|[MaxCounters]()|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)||
+|[MissingInteger]()|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)||
+|[PassingCars]()|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)||
+|[CountDiv]()|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)||
+|[GenomicRangeQuery]()|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)||
+|[MinAvgTwoSlice]()|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)|50% Solution|
+|[Distinct]()|[Codility](https://app.codility.com/programmers/lessons/6-sorting/distinct/)||
+|[MaxProductOfThree]()|[Codility](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)||
+|[Triangle]()|[Codility](https://app.codility.com/programmers/lessons/6-sorting/triangle/)||
+|[NumberOfDiscIntersections]()|[Codility](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)||
+|[Brackets]()|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)||
+|[Fish]()|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)|87% Solution|
+|[Nesting]()|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)||
+|[StoneWall]()|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)|92% Solution|
+|[Dominator]()|[Codility](https://app.codility.com/programmers/lessons/8-leader/dominator/)||
+|[EquiLeader]()|[Codility](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)|33% Solution|
+|[MaxProfit]()|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)||
+|[MaxSliceSum]()|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)||
+|[MaxDoubleSliceSum]()|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)||
+|[CountFactors]()|[Codility](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)||
+<!-- |[]()|[Codility]()||
+|[]()|[Codility]()||
+|[]()|[Codility]()||
+|[]()|[Codility]()||
+|[]()|[Codility]()||
+|[]()|[Codility]()||
+|[]()|[Codility]()||
+|[]()|[Codility]()||
+|[]()|[Codility]()||
+|[]()|[Codility]()|| -->
+
 <!-- latex not allowed in github markdown -->
 ### Sorting
 |Name|Best TC|Average TC|Worst TC|Worst SC|
