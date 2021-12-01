@@ -230,11 +230,11 @@ The following is the programming exercise that covers various `algorithms` and `
 |[]()|[Codility]()|| -->
 
 <!-- latex not allowed in github markdown -->
-### Sorting
+### Sorting ([simulation notebook](./sorting/sort_notebook.ipynb))
 |Name|Best TC|Average TC|Worst TC|Worst SC|[Stability](./sorting/stability.md)|
 |-|-|-|-|-|-|
 |[Bubble Sort](./sorting/bubble_sort.md)|Ω(N)|Θ(N^2)|O(N^2)|O(1)|Stable|
-|Selection Sort()|Ω(N^2)|Θ(N^2)|O(N^2)|O(1)||
+|Selection Sort|Ω(N^2)|Θ(N^2)|O(N^2)|O(1)||
 |[Insertion Sort](./sorting/insertion_sort.md)|Ω(N)|Θ(N^2)|O(N^2)|O(1)|Stable|
 |Shell Sort|Ω(N log N)|Θ(N log^2 N)|O(N log^2 N)|O(1)|
 |Heap Sort|Ω(N log N)|Θ(N log N)|O(N log N)|O(1)|
