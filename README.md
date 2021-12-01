@@ -71,7 +71,7 @@ These are the collections of `research projects` and `software portfolios` that 
         - The real-world data most often involves significant noise that perturbs extraction of the signal of interest. This project aims to parse out biometric signals from multivaraite time-series hologram data where EEG read out coninsides with other physiological responses such as heart beat.
         - <img src="https://img.shields.io/badge/-Machine Learning-blue"> 
             <img src="https://img.shields.io/badge/-Time--Series-blue"> 
-            <img src="https://img.shields.io/badge/-Statistical Analysis-blue"> 
+            <img src="https://img.shields.io/badge/-A/B Testing-blue"> 
             <img src="https://img.shields.io/badge/-Python-brown">
             <img src="https://img.shields.io/badge/-Tensorflow-darkgreen">
             <img src="https://img.shields.io/badge/-Scipy-darkgreen">
@@ -231,11 +231,11 @@ The following is the programming exercise that covers various `algorithms` and `
 
 <!-- latex not allowed in github markdown -->
 ### Sorting
-|Name|Best TC|Average TC|Worst TC|Worst SC|
-|-|-|-|-|-|
-|[Bubble Sort](./sorting/bubble_sort.md)|Ω(N)|Θ(N^2)|O(N^2)|O(1)|
-|Selection Sort|Ω(N^2)|Θ(N^2)|O(N^2)|O(1)|
-|Insertion Sort|Ω(N)|Θ(N^2)|O(N^2)|O(1)|
+|Name|Best TC|Average TC|Worst TC|Worst SC|[Stability](./sorting/stability.md)|
+|-|-|-|-|-|-|
+|[Bubble Sort](./sorting/bubble_sort.md)|Ω(N)|Θ(N^2)|O(N^2)|O(1)|Stable|
+|Selection Sort()|Ω(N^2)|Θ(N^2)|O(N^2)|O(1)||
+|[Insertion Sort](./sorting/insertion_sort.md)|Ω(N)|Θ(N^2)|O(N^2)|O(1)|Stable|
 |Shell Sort|Ω(N log N)|Θ(N log^2 N)|O(N log^2 N)|O(1)|
 |Heap Sort|Ω(N log N)|Θ(N log N)|O(N log N)|O(1)|
 |Merge Sort|Ω(N log N)|Θ(N log N)|O(N log N)|O(N)|
@@ -249,9 +249,9 @@ The following is the programming exercise that covers various `algorithms` and `
 ### SQL
 |Problem Name|Platform|Type|
 |----|----|----|
-|[Example 1|LeetCode|Type|
+|Example 1|LeetCode|Type|
 
 ### Bash & Shell
 |Problem Name|Platform|Type|
 |----|----|----|
-|[Example 1|LeetCode|Type|
+|Example 1|LeetCode|Type|
