@@ -163,61 +163,60 @@ The following is the programming exercise that covers various `algorithms` and `
 ### Algorithm & Data Structure
 |Problem Name|Platform|Note
 |----|----|----|
-|[Two Sum]()|[LeetCode](https://leetcode.com/problems/two-sum/)|Blind 75 Qs
-|[Two Sum II - Input Array Is Sorted]()|[LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)||
-|[Two Sum IV - Input is a BST]()|[LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)||
-|[Reverse Integer]()|[LeetCode](https://leetcode.com/problems/reverse-integer)||
-|[Palindrome Number]()|[LeetCode](https://leetcode.com/problems/palindrome-number/)||
-|[Roman to Integer]()|[LeetCode](https://leetcode.com/problems/roman-to-integer/)||
-|[Longest Common Prefix]()|[LeetCode](https://leetcode.com/problems/longest-common-prefix/)||
-|[Longest Substring Without Repeating Characters]()|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Blind 75 Qs|
-|[Container With Most Water]()|[LeetCode](https://leetcode.com/problems/container-with-most-water/)|Blind 75 Qs|
-|[Three Sum]()|[LeetCode](https://leetcode.com/problems/3sum)|Blind 75 Qs|
-|[Remove Nth Node From End of List]()|[LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Blind 75 Qs|
-|[Valid Parentheses]()|[LeetCode](https://leetcode.com/problems/valid-parentheses)|Blind 75 Qs|
-|[Merge Two Sorted Lists]()|[LeetCode](https://leetcode.com/problems/merge-two-sorted-lists)|Blind 75 Qs|
-|Merge k Sorted Lists|[LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/)|Blind 75 Qs|
-|[Combination Sum]()|[LeetCode](https://leetcode.com/problems/combination-sum/)|Blind 75 Qs|
-|[Search in Rotated Sorted Array]()|[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)|Blind 75 Qs|
-|[Group Anagrams]()|[LeetCode](https://leetcode.com/problems/group-anagrams)|Blind 75 Qs|
-|[Rotate Image]()|[LeetCode](https://leetcode.com/problems/rotate-image)|Blind 75 Qs|
-|[Maximum Subarray]()|[LeetCode](https://leetcode.com/problems/maximum-subarray)|Blind 75 Qs|
-|[Climbing Stairs]()|[LeetCode](https://leetcode.com/problems/climbing-stairs)|Blind 75 Qs|
-|[Spiral Matrix]()|[LeetCode](https://leetcode.com/problems/spiral-matrix)|Blind 75 Qs|
-|[Jump Game]()|[LeetCode](https://leetcode.com/problems/jump-game)|Blind 75 Qs|
-|[Merge Intervals]()|[LeetCode](https://leetcode.com/problems/merge-intervals)|Blind 75 Qs|
-|[Insert Interval]()|[LeetCode](https://leetcode.com/problems/insert-interval)|Blind 75 Qs|
-|Unique Paths|[LeetCode](https://leetcode.com/problems/unique-paths/)|Blind 75 Qs|
-|[Sort Characters By Frequency]()|[LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/)||
-|[Combination Sum]()|[Codility](https://leetcode.com/problems/combination-sum/)||
-|[BinaryGap]()|[Codility](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)||
-|[CyclicRotation]()|[Codility](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)||
-|[OddOccurrencesInArray]()|[Codility](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)||
-|[FrogJmp]()|[Codility](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)||
-|[PermMissingElem]()|[Codility](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)||
-|[TapeEquilibrium]()|[Codility](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)||
-|[FrogRiverOne]()|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)||
-|[PermCheck]()|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)||
-|[MaxCounters]()|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)||
-|[MissingInteger]()|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)||
-|[PassingCars]()|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)||
-|[CountDiv]()|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)||
-|[GenomicRangeQuery]()|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)||
-|[MinAvgTwoSlice]()|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)|50% Solution|
-|[Distinct]()|[Codility](https://app.codility.com/programmers/lessons/6-sorting/distinct/)||
-|[MaxProductOfThree]()|[Codility](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)||
-|[Triangle]()|[Codility](https://app.codility.com/programmers/lessons/6-sorting/triangle/)||
-|[NumberOfDiscIntersections]()|[Codility](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)||
-|[Brackets]()|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)||
-|[Fish]()|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)|87% Solution|
-|[Nesting]()|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)||
-|[StoneWall]()|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)|92% Solution|
-|[Dominator]()|[Codility](https://app.codility.com/programmers/lessons/8-leader/dominator/)||
-|[EquiLeader]()|[Codility](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)|33% Solution|
-|[MaxProfit]()|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)||
-|[MaxSliceSum]()|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)||
-|[MaxDoubleSliceSum]()|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)||
-|[CountFactors]()|[Codility](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)||
+|[Two Sum](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210812_leetcode_twosum.py)|[LeetCode](https://leetcode.com/problems/two-sum/)|Blind 75 Qs
+|[Two Sum II - Input Array Is Sorted](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210814_leetcode_sorted-twosum.py)|[LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)||
+|[Two Sum IV - Input is a BST](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210819_leetcode_twosum-BST.py)|[LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)||
+|[Reverse Integer](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210818_leetcode_reverse-integer.py)|[LeetCode](https://leetcode.com/problems/reverse-integer)||
+|[Palindrome Number](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210821_leetcode_palindrome_check.py)|[LeetCode](https://leetcode.com/problems/palindrome-number/)||
+|[Roman to Integer](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210822_leetcode_roman2number.py)|[LeetCode](https://leetcode.com/problems/roman-to-integer/)||
+|[Longest Common Prefix](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210824_leetcode_longest-prefix.py)|[LeetCode](https://leetcode.com/problems/longest-common-prefix/)||
+|[Longest Substring Without Repeating Characters](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210827_leetcode_longest-substring.py)|[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Blind 75 Qs|
+|[Container With Most Water](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210910_leetcode_container-with-most-water.py)|[LeetCode](https://leetcode.com/problems/container-with-most-water/)|Blind 75 Qs|
+|[Three Sum](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210911_leetcode_three_sum.py)|[LeetCode](https://leetcode.com/problems/3sum)|Blind 75 Qs|
+|[Remove Nth Node From End of List](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210913_leetcode_remove_nth_node.py)|[LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Blind 75 Qs|
+|[Valid Parentheses](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210916_leetcode_valid_parentheses.py)|[LeetCode](https://leetcode.com/problems/valid-parentheses)|Blind 75 Qs|
+|[Merge Two Sorted Lists](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210918_leetcode_merge_two_sorted_lists.py)|[LeetCode](https://leetcode.com/problems/merge-two-sorted-lists)|Blind 75 Qs|
+|[Merge k Sorted Lists](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210918_leetcode_merge_N_sorted_lists.py)|[LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/)|Blind 75 Qs, only TLE Solution|
+|[Combination Sum](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210919_leetcode_combination_sum.py)|[LeetCode](https://leetcode.com/problems/combination-sum/)|Blind 75 Qs|
+|[Search in Rotated Sorted Array](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210928_leetcode_search_in_rotated_array.py)|[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)|Blind 75 Qs|
+|[Group Anagrams](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210929_leetcode_group_anagrams.py)|[LeetCode](https://leetcode.com/problems/group-anagrams)|Blind 75 Qs|
+|[Rotate Image](https://github.com/jshinm/coding_practice/blob/master/leetcode/20210929_leetcode_rotated_image.py)|[LeetCode](https://leetcode.com/problems/rotate-image)|Blind 75 Qs|
+|[Maximum Subarray](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211002_leetcode_max_subarray.py)|[LeetCode](https://leetcode.com/problems/maximum-subarray)|Blind 75 Qs|
+|[Climbing Stairs](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211005_leetcode_climbing_stairs.py)|[LeetCode](https://leetcode.com/problems/climbing-stairs)|Blind 75 Qs|
+|[Spiral Matrix](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211008_leetcode_spiral_matrix.py)|[LeetCode](https://leetcode.com/problems/spiral-matrix)|Blind 75 Qs|
+|[Jump Game](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211009_leetcode_jump_game.py)|[LeetCode](https://leetcode.com/problems/jump-game)|Blind 75 Qs|
+|[Merge Intervals](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211015_leetcode_merge_intervals.py)|[LeetCode](https://leetcode.com/problems/merge-intervals)|Blind 75 Qs|
+|[Insert Interval](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211016_leetcode_insert_interval.py)|[LeetCode](https://leetcode.com/problems/insert-interval)|Blind 75 Qs|
+|[Unique Paths](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211017_leetcode_unique_path.py)|[LeetCode](https://leetcode.com/problems/unique-paths/)|Blind 75 Qs, only TLE Solution|
+|[Sort Characters By Frequency](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211022_leetcode_sort_char_by_freq.py)|[LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/)||
+|[BinaryGap](https://github.com/jshinm/coding_practice/blob/master/codility/20211004_codility_binary_gap.py)|[Codility](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)||
+|[CyclicRotation](https://github.com/jshinm/coding_practice/blob/master/codility/20211020_codility_array_rotation.py)|[Codility](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)||
+|[OddOccurrencesInArray](https://github.com/jshinm/coding_practice/blob/master/codility/20211021_codility_odd_occurrences_array.py)|[Codility](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)||
+|[FrogJmp](https://github.com/jshinm/coding_practice/blob/master/codility/20211021_codility_frog_jump.py)|[Codility](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)||
+|[PermMissingElem](https://github.com/jshinm/coding_practice/blob/master/codility/20211021_codility_missing_element_in_permutation.py)|[Codility](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)||
+|[TapeEquilibrium](https://github.com/jshinm/coding_practice/blob/master/codility/20211021_codility_tape_equilibrium.py)|[Codility](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)||
+|[FrogRiverOne](https://github.com/jshinm/coding_practice/blob/master/codility/20211021_codility_frog_river_one.py)|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)||
+|[PermCheck](https://github.com/jshinm/coding_practice/blob/master/codility/20211021_codility_perma_check.py)|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)||
+|[MaxCounters](https://github.com/jshinm/coding_practice/blob/master/codility/20211021_codility_max_counters.py)|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)||
+|[MissingInteger](https://github.com/jshinm/coding_practice/blob/master/codility/20211022_codility_missing_integer.py)|[Codility](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)||
+|[PassingCars](https://github.com/jshinm/coding_practice/blob/master/codility/20211028_codility_passing_cars.py)|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)||
+|[CountDiv](https://github.com/jshinm/coding_practice/blob/master/codility/20211031_codility_countDiv.py)|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)||
+|[GenomicRangeQuery](https://github.com/jshinm/coding_practice/blob/master/codility/20211031_codility_GenomicRangeQuery.py)|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)||
+|[MinAvgTwoSlice](https://github.com/jshinm/coding_practice/blob/master/codility/20211031_codility_MinAvgTwoSlice.py)|[Codility](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)|50% Solution|
+|[Distinct](https://github.com/jshinm/coding_practice/blob/master/codility/20211104_codility_compute_distinct_val.py)|[Codility](https://app.codility.com/programmers/lessons/6-sorting/distinct/)||
+|[MaxProductOfThree](https://github.com/jshinm/coding_practice/blob/master/codility/20211104_codility_max_product_of_3.py)|[Codility](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)||
+|[Triangle](https://github.com/jshinm/coding_practice/blob/master/codility/20211108_codility_sort_triangle.py)|[Codility](https://app.codility.com/programmers/lessons/6-sorting/triangle/)||
+|[NumberOfDiscIntersections](https://github.com/jshinm/coding_practice/blob/master/codility/20211109_codility_number_of_intersections.py)|[Codility](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)||
+|[Brackets](https://github.com/jshinm/coding_practice/blob/master/codility/20211110_codility_properly_nested_brackets.py)|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)||
+|[Fish](https://github.com/jshinm/coding_practice/blob/master/codility/20211111_codility_fish.py)|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)|87% Solution|
+|[Nesting](https://github.com/jshinm/coding_practice/blob/master/codility/20211113_codility_single_type_nesting.py)|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)||
+|[StoneWall](https://github.com/jshinm/coding_practice/blob/master/codility/20211111_codility_stonewall.py)|[Codility](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)|92% Solution|
+|[Dominator](https://github.com/jshinm/coding_practice/blob/master/codility/20211113_codility_dominator.py)|[Codility](https://app.codility.com/programmers/lessons/8-leader/dominator/)||
+|[EquiLeader](https://github.com/jshinm/coding_practice/blob/master/codility/20211114_codility_equileader.py)|[Codility](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)|33% Solution|
+|[MaxProfit](https://github.com/jshinm/coding_practice/blob/master/codility/20211115_codility_maxprofit.py)|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)||
+|[MaxSliceSum](https://github.com/jshinm/coding_practice/blob/master/codility/20211116_codility_maxslicesum.py)|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)||
+|[MaxDoubleSliceSum](https://github.com/jshinm/coding_practice/blob/master/codility/20211116_codility_maxdoubleslicesum.py)|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)||
+|[CountFactors](https://github.com/jshinm/coding_practice/blob/master/codility/20211119_codility_count_factors.py)|[Codility](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)||
 <!-- |[]()|[Codility]()||
 |[]()|[Codility]()||
 |[]()|[Codility]()||
