@@ -246,7 +246,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |Smooth Sort|Ω(N)|Θ(N log N)|O(N log N)|O(1)|
 |Radix Sort|Ω(NK)|Θ(NK)|O(NK)|O(N+K)|
 
-### SQL
+### SQL ([sql syntax note](https://github.com/jshinm/sql_mastery/blob/main/sql-mastery.md))
 |Problem Name|Platform|Note|
 |----|----|----|
 |[Combine Two Tables](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211004_combine_two_tables.sql)|[LeetCode](https://leetcode.com/problems/combine-two-tables)||
