@@ -116,8 +116,7 @@ One of the purposes of machine learning models is a prediction of trend based on
 
 Github Repo: --
 
-Some intro here \
-Image, Repo, Url, Website, Org, Code
+< content here >
 
 <li><span>
 
@@ -126,8 +125,7 @@ Image, Repo, Url, Website, Org, Code
 
 Github Repo: https://github.com/jshinm/deepnet-behavioral
 
-Some intro here \
-Image, Repo, Url, Website, Org, Code
+< content here >
 
 <li><span>
 
@@ -136,8 +134,7 @@ Image, Repo, Url, Website, Org, Code
 
 Github Repo: https://github.com/jshinm/probabilistic-linkage
 
-Some intro here \
-Image, Repo, Url, Website, Org, Code
+< content here >
 
 <li><span>
 
@@ -146,8 +143,7 @@ Image, Repo, Url, Website, Org, Code
 
 Github Repo: https://github.com/jshinm/hologram-biometric-signal-parsing
 
-Some intro here \
-Image, Repo, Url, Website, Org, Code
+< content here >
 
 </ol>
 
@@ -277,7 +273,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |[Japanese Population](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211029_jp_population.sql)|HackerRank||
 |[Aggregation](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211030_aggregation.sql)|HackerRank||
 
-### Bash & Shell (to be added)
+### Bash & Shell
 |Problem Name|Platform|Note|
 |----|----|----|
 |[Comparing Numbers](https://github.com/jshinm/bash-shell-mastery/blob/main/exercises/20211024_hackerrank_comparing_numbers.sh)|HackerRank||
