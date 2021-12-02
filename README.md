@@ -157,7 +157,6 @@ Image, Repo, Url, Website, Org, Code
 <!-- https://github.com/jshinm/BIOF509_FINAL_PRJ -->
 <!-- https://github.com/jshinm/BIOF399_FINAL_PRJ -->
 
-
 # Coding
 The following is the programming exercise that covers various `algorithms` and `data structures`. There is a dedicated section for `sorting`. Also contains is `sql` and `bash/shell` coding challenges.
 
@@ -281,23 +280,10 @@ The following is the programming exercise that covers various `algorithms` and `
 ### Bash & Shell (to be added)
 |Problem Name|Platform|Note|
 |----|----|----|
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
-|[]()|LeetCode||
+|[Comparing Numbers](https://github.com/jshinm/bash-shell-mastery/blob/main/exercises/20211024_hackerrank_comparing_numbers.sh)|HackerRank||
+|[Comparing Strings](https://github.com/jshinm/bash-shell-mastery/blob/main/exercises/20211024_hackerrank_comparing_strings.sh)|HackerRank||
+|[Loop and Skip](https://github.com/jshinm/bash-shell-mastery/blob/main/exercises/20211024_hackerrank_loop_n_skip.sh)|HackerRank||
+|[Arithmetic Operations](https://github.com/jshinm/bash-shell-mastery/blob/main/exercises/20211025_hackerrank_arithmetic_operations.sh)|HackerRank||
+|[Compute Average](https://github.com/jshinm/bash-shell-mastery/blob/main/exercises/20211025_hackerrank_compute_average.sh)|HackerRank||
+|[Cut Command](https://github.com/jshinm/bash-shell-mastery/blob/main/exercises/20211026_hackerrank_cuts.sh)|HackerRank||
+|[Text Processing](https://github.com/jshinm/bash-shell-mastery/blob/main/exercises/20211106_hackerrank_text_processing.sh)|HackerRank||
