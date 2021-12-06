@@ -26,7 +26,7 @@ These are the collections of `research projects` and `software portfolios` that 
     - [Extrapolative behavior of ML models](#Extrapolative-behavior-of-ML-models)
         - The project demonstrates comparative difference of extrapolative behavior between various ML models and reports quantitative/qualitative measures of performance against that of human on simple non-linear simulation datasets.
         - <img src="https://img.shields.io/badge/-Extrapolation-blue"> 
-            <img src="https://img.shields.io/badge/-Machine Learning-blue"> 
+            <!-- <img src="https://img.shields.io/badge/-Machine Learning-blue">  -->
             <img src="https://img.shields.io/badge/-AI behavior-blue"> 
             <img src="https://img.shields.io/badge/-Predictive Modeling-blue"> 
             <img src="https://img.shields.io/badge/-Python-brown">
@@ -36,8 +36,8 @@ These are the collections of `research projects` and `software portfolios` that 
             <img src="https://img.shields.io/badge/-Johns Hopkins -- Biomedical Engineering-red">
     - [Automated end-to-end causal inference application](#Automated-end-to-end-causal-inference-application)
         - The project aims to bring exploratory data analytics and causal inference to generic users who are not familiar with data science particularly with the concept of in-dept machine learning models and intricacy of causal inference.
-        - <img src="https://img.shields.io/badge/-Machine Learning-blue"> 
-            <img src="https://img.shields.io/badge/-Causal Inference-blue"> 
+        - <img src="https://img.shields.io/badge/-Causal Inference-blue"> 
+            <!-- <img src="https://img.shields.io/badge/-Machine Learning-blue"> -->
             <img src="https://img.shields.io/badge/-Python-brown">
             <img src="https://img.shields.io/badge/-TypeScript-brown">
             <img src="https://img.shields.io/badge/-DoWhy-darkgreen">
@@ -46,8 +46,7 @@ These are the collections of `research projects` and `software portfolios` that 
             <img src="https://img.shields.io/badge/-Microsoft Research-red">
     - [Human extrapolative behavioral experiment via web application](#Human-extrapolative-behavioral-experiment-via-web-application)
         - The human part of the extrapolation project to take comparative measures on investigating human like behaviors from various ML algorithms such as random forest and deep neural networks. In order to deliver the behavioral experiments to 150 participants recruited on AWS, the web app was created and hosted on heroku.
-        - <img src="https://img.shields.io/badge/-Machine Learning-blue"> 
-            <img src="https://img.shields.io/badge/-Human--Machine Behavior-blue"> 
+        - <img src="https://img.shields.io/badge/-Human--Machine Behavior-blue"> 
             <img src="https://img.shields.io/badge/-Python-brown">
             <img src="https://img.shields.io/badge/-HTML/CSS-brown">
             <img src="https://img.shields.io/badge/-JavaScript-brown">
@@ -60,7 +59,7 @@ These are the collections of `research projects` and `software portfolios` that 
             <img src="https://img.shields.io/badge/-Johns Hopkins -- Cognitive Science-red">
     - [Probabilistic linkage of real-world clinical data](#Probabilistic-linkage-of-real-world-clinical-data)
         - In order to link multiple datasets acquired from different sections of the JHU medicine network, this data management pipeline was built in support of collective mission of CDEM. The pipeline uses `fastlink` R package to automate probablistic linkage of multiple datasets which bases on expectation-maximaztion algorithm.
-        - <img src="https://img.shields.io/badge/-Machine Learning-blue"> 
+        - <img src="https://img.shields.io/badge/-Record--Linkage-blue"> 
             <img src="https://img.shields.io/badge/-Data Management-blue"> 
             <img src="https://img.shields.io/badge/-R-brown">
             <img src="https://img.shields.io/badge/-Python-brown">
@@ -70,8 +69,7 @@ These are the collections of `research projects` and `software portfolios` that 
             <img src="https://img.shields.io/badge/-Johns Hopkins -- Center for Data Science in Emergency Medicine-red">
     - [Multivariate time-series hologram biometric signal parsing](#Multivariate-time-series-hologram-biometric-signal-parsing)
         - The real-world data most often involves significant noise that perturbs extraction of the signal of interest. This project aims to parse out biometric signals from multivaraite time-series hologram data where EEG read out coninsides with other physiological responses such as heart beat.
-        - <img src="https://img.shields.io/badge/-Machine Learning-blue"> 
-            <img src="https://img.shields.io/badge/-Time--Series-blue"> 
+        - <img src="https://img.shields.io/badge/-Time--Series-blue"> 
             <img src="https://img.shields.io/badge/-A/B Testing-blue"> 
             <img src="https://img.shields.io/badge/-Python-brown">
             <img src="https://img.shields.io/badge/-Tensorflow-darkgreen">
@@ -216,16 +214,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |[MaxSliceSum](https://github.com/jshinm/coding_practice/blob/master/codility/20211116_codility_maxslicesum.py)|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)||
 |[MaxDoubleSliceSum](https://github.com/jshinm/coding_practice/blob/master/codility/20211116_codility_maxdoubleslicesum.py)|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)||
 |[CountFactors](https://github.com/jshinm/coding_practice/blob/master/codility/20211119_codility_count_factors.py)|[Codility](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)||
-<!-- |[]()|[Codility]()||
-|[]()|[Codility]()||
-|[]()|[Codility]()||
-|[]()|[Codility]()||
-|[]()|[Codility]()||
-|[]()|[Codility]()||
-|[]()|[Codility]()||
-|[]()|[Codility]()||
-|[]()|[Codility]()||
-|[]()|[Codility]()|| -->
+
 
 <!-- latex not allowed in github markdown -->
 ### Sorting ([simulation notebook](./sorting/sort_notebook.ipynb))
