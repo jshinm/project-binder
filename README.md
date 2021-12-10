@@ -103,7 +103,13 @@ Github Repo: https://github.com/jshinm/inductive-bias-experiment
 
 One of the purposes of machine learning models is a prediction of trend based on the patterns of given data. The issue is that these ML models are interpolative by nature and does not perform well as extrapolators. Despite that, ML models are widely used for forecasting uncharted territory. This project tests examines extrapolative behaviors of the ML algorithms such as `random forest`, `neural networks`, `support vector machines` and measure performance against humans. 
 
-< Image here >
+<img src="https://github.com/jshinm/inductive-bias-experiment/blob/main/figures/%5B20210820_generate_pub_figures%5D_figure1_sxor_2021-09-08.jpg?raw=true">
+
+These ML algorithms are trained on non-linear simulation datasets (gaussian XOR shown above) and their posterior probability distributions are drawn out in a form of a grid for comparison. The line plot is indicative of increasing Hellinger distance for `neural nets` posteriors more so than both `random forest` and `humans` as we move further away from the origin, which suggests that the latter algorithm is more similar to the former algorithm in this experiment.
+
+<img src="https://github.com/jshinm/inductive-bias-experiment/blob/main/figures/%5B20210518_matching_grid%5D_fullplot_animated_spiral_2021-11-02.gif?raw=true">
+
+As these non-linear datasets are not space-invariant, we can assess the posterior in a piece-wise manner. The linear evaluation with a function of angle reveals more drastic difference between `neural nets` and `random forest` where the former algorithm reaches the limit of posterior much faster than that of the latter indicating that `neural nets` is not only misrepresentative of spiral simulation estimation but it is also more confident in its decision.
 
 <!-- Most recent addition to this list is a new variant algorithm of random forest known as oblique trees which utilizes   -->
 
