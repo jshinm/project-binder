@@ -192,6 +192,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |[Set Matrix Zeroes](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211202_leetcode_set_matrix_zeroes.md)|[LeetCode](https://leetcode.com/problems/set-matrix-zeroes/)|Blind 75 Qs|
 |[Minimum Window Substring](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211202_leetcode_min_window_substring.md)|[LeetCode](https://leetcode.com/problems/minimum-window-substring/)|Blind 75 Qs|
 |[Word Search](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211205_leetcode_word_search.md)|[LeetCode](https://leetcode.com/problems/word-search)|Blind 75 Qs|
+|[Decode Ways](https://github.com/jshinm/coding_practice/blob/master/leetcode/20211212_leetcode_decode_ways.md)|[LeetCode](https://leetcode.com/problems/decode-ways/)|Blind 75 Qs|
 |[BinaryGap](https://github.com/jshinm/coding_practice/blob/master/codility/20211004_codility_binary_gap.py)|[Codility](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)||
 |[CyclicRotation](https://github.com/jshinm/coding_practice/blob/master/codility/20211020_codility_array_rotation.py)|[Codility](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)||
 |[OddOccurrencesInArray](https://github.com/jshinm/coding_practice/blob/master/codility/20211021_codility_odd_occurrences_array.py)|[Codility](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)||
