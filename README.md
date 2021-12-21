@@ -282,6 +282,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |[Risky Projects](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211214_stratascratch_risky_projects.md)|[StrataStratch](https://platform.stratascratch.com/coding/10304-risky-projects?python=1)|Python (Pandas)|
 |[Number Of Bathrooms And Bedrooms](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211216_stratascratch_number_of_bathrooms.md)|[StrataStratch](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?python=1)|Python (Pandas)|
 |[Customer Details](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211219_stratascratch_cutomer_details.md)|[StrataStratch](https://platform.stratascratch.com/coding/9891-customer-details?python=1)|Python (Pandas)|
+|[SMS Confirmations From Users](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211220_stratascratch_sms_confirmations.md)|[StrataStratch](https://platform.stratascratch.com/coding/10291-sms-confirmations-from-users?python=1)|Python (Pandas)|
 
 ### Bash & Shell
 |Problem Name|Platform|Note|
