@@ -283,6 +283,8 @@ The following is the programming exercise that covers various `algorithms` and `
 |[Number Of Bathrooms And Bedrooms](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211216_stratascratch_number_of_bathrooms.md)|[StrataStratch](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?python=1)|Python (Pandas)|
 |[Customer Details](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211219_stratascratch_cutomer_details.md)|[StrataStratch](https://platform.stratascratch.com/coding/9891-customer-details?python=1)|Python (Pandas)|
 |[SMS Confirmations From Users](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211220_stratascratch_sms_confirmations.md)|[StrataStratch](https://platform.stratascratch.com/coding/10291-sms-confirmations-from-users?python=1)|Python (Pandas)|
+|[Customer Revenue In March](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211224_stratascratch_cutomer_revenue.md)|[StrataStratch](https://platform.stratascratch.com/coding/10291-sms-confirmations-from-users?python=1)|Python (Pandas)|
+|[Find the rate of processed tickets for each type](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211229_stratascratch_processed_tickets.md)|[StrataStratch](https://platform.stratascratch.com/coding/9781-find-the-rate-of-processed-tickets-for-each-type?python=1)|Python (Pandas)|
 
 ### Bash & Shell
 |Problem Name|Platform|Note|
