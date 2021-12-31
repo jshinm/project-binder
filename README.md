@@ -285,6 +285,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |[SMS Confirmations From Users](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211220_stratascratch_sms_confirmations.md)|[StrataStratch](https://platform.stratascratch.com/coding/10291-sms-confirmations-from-users?python=1)|Python (Pandas)|
 |[Customer Revenue In March](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211224_stratascratch_cutomer_revenue.md)|[StrataStratch](https://platform.stratascratch.com/coding/10291-sms-confirmations-from-users?python=1)|Python (Pandas)|
 |[Find the rate of processed tickets for each type](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211229_stratascratch_processed_tickets.md)|[StrataStratch](https://platform.stratascratch.com/coding/9781-find-the-rate-of-processed-tickets-for-each-type?python=1)|Python (Pandas)|
+|[Find the overall friend acceptance count for a given date](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211231_stratascratch_overall_friend_acceptance.md)|[StrataStratch](https://platform.stratascratch.com/coding/9780-find-the-overall-friend-acceptance-count-for-a-given-date?python=1)|Python (Pandas)|
 
 ### Bash & Shell
 |Problem Name|Platform|Note|
