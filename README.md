@@ -241,8 +241,8 @@ The following is the programming exercise that covers various `algorithms` and `
 |Radix Sort|Ω(NK)|Θ(NK)|O(NK)|O(N+K)|
 
 ### Database [either SQL ([sql syntax note](https://github.com/jshinm/sql_mastery/blob/main/sql-mastery.md)) or python]
-|Problem Name|Platform|Language|Note
-|----|----|----|----|
+|Problem Name|Platform|Language
+|----|----|----|
 |[Combine Two Tables](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211004_combine_two_tables.sql)|[LeetCode](https://leetcode.com/problems/combine-two-tables)|SQL|
 |[Second Highest Salary](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211004_second_highest_salary.sql)|[LeetCode](https://leetcode.com/problems/second-highest-salary)|SQL|
 |[Nth Highest Salary](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211005_Nth_highest_salary.sql)|[LeetCode](https://leetcode.com/problems/nth-highest-salary)|SQL|
@@ -288,10 +288,11 @@ The following is the programming exercise that covers various `algorithms` and `
 |[Find the overall friend acceptance count for a given date](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211231_stratascratch_overall_friend_acceptance.md)|[StrataStratch](https://platform.stratascratch.com/coding/9780-find-the-overall-friend-acceptance-count-for-a-given-date?python=1)|Python (Pandas)|
 |[Daily Interactions By Users Count](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220101_stratascratch_daily_interactions.md)|[StrataStratch](https://platform.stratascratch.com/coding/9779-daily-interactions-by-users-count?python=1)|Python (Pandas)|
 |[Successfully Sent Messages](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220104_stratascratch_successfully_sent_messages.md)|[StrataStratch](https://platform.stratascratch.com/coding/9777-successfully-sent-messages?python=1)|Python (Pandas)|
+|[Popularity of Hack](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220108_stratascratch_popularity_hack.md)|[StrataStratch](https://platform.stratascratch.com/coding/10061-popularity-of-hack?python=1)|Python (Pandas)|
 
 ### Bash & Shell
-|Problem Name|Platform|Note|
-|----|----|----|
+|Problem Name|Platform|
+|----|----|
 |[Comparing Numbers](https://github.com/jshinm/bash-shell-mastery/blob/main/exercises/20211024_hackerrank_comparing_numbers.sh)|HackerRank||
 |[Comparing Strings](https://github.com/jshinm/bash-shell-mastery/blob/main/exercises/20211024_hackerrank_comparing_strings.sh)|HackerRank||
 |[Loop and Skip](https://github.com/jshinm/bash-shell-mastery/blob/main/exercises/20211024_hackerrank_loop_n_skip.sh)|HackerRank||
