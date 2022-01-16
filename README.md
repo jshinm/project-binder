@@ -290,6 +290,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |[Successfully Sent Messages](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220104_stratascratch_successfully_sent_messages.md)|[StrataStratch](https://platform.stratascratch.com/coding/9777-successfully-sent-messages?python=1)|Python (Pandas)|
 |[Popularity of Hack](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220108_stratascratch_popularity_hack.md)|[StrataStratch](https://platform.stratascratch.com/coding/10061-popularity-of-hack?python=1)|Python (Pandas)|
 |[Most Active Users On Messenger](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220110_stratascratch_most_active_users_on_messenger.md)|[StrataStratch](https://platform.stratascratch.com/coding/10295-most-active-users-on-messenger?python=1)|Python (Pandas)|
+|[Average Salaries](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220114_stratascratch_average_salaries.md)|[StrataStratch](https://platform.stratascratch.com/coding/9917-average-salaries?python=1)|Python (Pandas)|
 
 ### Bash & Shell
 |Problem Name|Platform|
