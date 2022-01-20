@@ -292,6 +292,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |[Most Active Users On Messenger](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220110_stratascratch_most_active_users_on_messenger.md)|[StrataStratch](https://platform.stratascratch.com/coding/10295-most-active-users-on-messenger?python=1)|Python (Pandas)|
 |[Average Salaries](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220114_stratascratch_average_salaries.md)|[StrataStratch](https://platform.stratascratch.com/coding/9917-average-salaries?python=1)|Python (Pandas)|
 |[Spam Posts](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220116_stratascratch_spam_posts.md)|[StrataStratch](https://platform.stratascratch.com/coding/10134-spam-posts?python=1)|Python (Pandas)|
+|[Total Cost Of Orders](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220118_stratascratch_total_cost_of_orders.md)|[StrataStratch](https://platform.stratascratch.com/coding/10183-total-cost-of-orders?python=1)|Python (Pandas)|
 
 ### Bash & Shell
 |Problem Name|Platform|
