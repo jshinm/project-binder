@@ -295,6 +295,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |[Total Cost Of Orders](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220118_stratascratch_total_cost_of_orders.md)|[StrataStratch](https://platform.stratascratch.com/coding/10183-total-cost-of-orders?python=1)|Python (Pandas)|
 |[Classify Business Type](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220124_stratascratch_classify_business_type.md)|[StrataStratch](https://platform.stratascratch.com/coding/9726-classify-business-type?python=1)|Python (Pandas)|
 |[Top Cool Votes](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220128_stratascratch_top_cool_votes.md)|[StrataStratch](https://platform.stratascratch.com/coding/10060-top-cool-votes?python=1)|Python (Pandas)|
+|[Order Details](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220206_stratascratch_order_details.md)|[StrataStratch](https://platform.stratascratch.com/coding/9913-order-details?python=1)|Python (Pandas)|
 
 ### Bash & Shell
 |Problem Name|Platform|
