@@ -296,6 +296,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |[Classify Business Type](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220124_stratascratch_classify_business_type.md)|[StrataStratch](https://platform.stratascratch.com/coding/9726-classify-business-type?python=1)|Python (Pandas)|
 |[Top Cool Votes](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220128_stratascratch_top_cool_votes.md)|[StrataStratch](https://platform.stratascratch.com/coding/10060-top-cool-votes?python=1)|Python (Pandas)|
 |[Order Details](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220206_stratascratch_order_details.md)|[StrataStratch](https://platform.stratascratch.com/coding/9913-order-details?python=1)|Python (Pandas)|
+|[Workers With The Highest Salaries](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220212_stratascratch_workers_with_highest_salaries.md)|[StrataStratch](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?python=1)|Python (Pandas)|
 
 ### Bash & Shell
 |Problem Name|Platform|
