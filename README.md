@@ -243,10 +243,10 @@ The following is the programming exercise that covers various `algorithms` and `
 ### Database [either SQL ([sql syntax note](https://github.com/jshinm/sql_mastery/blob/main/sql-mastery.md)) or python]
 |Problem Name|Platform|Language
 |----|----|----|
-|[Combine Two Tables](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211004_combine_two_tables.sql)|[LeetCode](https://leetcode.com/problems/combine-two-tables)|SQL|
-|[Second Highest Salary](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211004_second_highest_salary.sql)|[LeetCode](https://leetcode.com/problems/second-highest-salary)|SQL|
-|[Nth Highest Salary](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211005_Nth_highest_salary.sql)|[LeetCode](https://leetcode.com/problems/nth-highest-salary)|SQL|
-|[Rank Scores](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211006_rank_scores.sql)|[LeetCode](https://leetcode.com/problems/rank-scores)|SQL|
+|Combine Two Tables|[LeetCode](https://leetcode.com/problems/combine-two-tables)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211004_combine_two_tables.sql)|
+|Second Highest Salary|[LeetCode](https://leetcode.com/problems/second-highest-salary)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211004_second_highest_salary.sql)|
+|Nth Highest Salary|[LeetCode](https://leetcode.com/problems/nth-highest-salary)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211005_Nth_highest_salary.sql)|
+|Rank Scores|[LeetCode](https://leetcode.com/problems/rank-scores)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211006_rank_scores.sql)|
 |[Consecutive Numbers](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211008_consecutive_numbers.sql)|[LeetCode](https://leetcode.com/problems/consecutive-numbers)|SQL|
 |[Employees Earning More Than Their Managers](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211011_employees_earning_more.sql)|[LeetCode](https://leetcode.com/problems/employees-earning-more-than-their-managers)|SQL|
 |[Duplicate Emails](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_duplicate_emails.sql)|[LeetCode](https://leetcode.com/problems/duplicate-emails)|SQL|
