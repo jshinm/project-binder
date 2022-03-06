@@ -247,30 +247,30 @@ The following is the programming exercise that covers various `algorithms` and `
 |Second Highest Salary|[LeetCode](https://leetcode.com/problems/second-highest-salary)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211004_second_highest_salary.sql)|
 |Nth Highest Salary|[LeetCode](https://leetcode.com/problems/nth-highest-salary)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211005_Nth_highest_salary.sql)|
 |Rank Scores|[LeetCode](https://leetcode.com/problems/rank-scores)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211006_rank_scores.sql)|
-|[Consecutive Numbers](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211008_consecutive_numbers.sql)|[LeetCode](https://leetcode.com/problems/consecutive-numbers)|SQL|
-|[Employees Earning More Than Their Managers](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211011_employees_earning_more.sql)|[LeetCode](https://leetcode.com/problems/employees-earning-more-than-their-managers)|SQL|
-|[Duplicate Emails](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_duplicate_emails.sql)|[LeetCode](https://leetcode.com/problems/duplicate-emails)|SQL|
-|[Customers Who Never Order](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_customers_who_never_order.sql)|[LeetCode](https://leetcode.com/problems/customers-who-never-order)|SQL|
-|[Department Highest Salary](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_department_highest_salary.sql)|[LeetCode](https://leetcode.com/problems/department-highest-salary)|SQL|
-|[Department Top Three Salaries](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211013_department_top_3_salaries.sql)|[LeetCode](https://leetcode.com/problems/department-top-three-salaries)|SQL|
-|[Delete Duplicate Emails](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_delete_duplicate_emails.sql)|[LeetCode](https://leetcode.com/problems/delete-duplicate-emails)|SQL|
-|[Rising Temperature](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_rising_temp.sql)|[LeetCode](https://leetcode.com/problems/rising-temperature)|SQL|
-|[Trips and Users](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211020_trips_and_users.sql)|[LeetCode](https://leetcode.com/problems/trips-and-users)|SQL|
-|[Big Countries](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211014_big_countries.sql)|[LeetCode](https://leetcode.com/problems/big-countries)|SQL|
-|[Classes More Than 5 Students](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211017_classes_more_than_five.sql)|[LeetCode](https://leetcode.com/problems/classes-more-than-5-students)|SQL|
-|[Human Traffic of Stadium](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211022_human_traffic_stadium.sql)|[LeetCode](https://leetcode.com/problems/human-traffic-of-stadium)|SQL|
-|[Not Boring Movies](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211018_not_boring_movies.sql)|[LeetCode](https://leetcode.com/problems/not-boring-movies)|SQL|
-|[Exchange Seats](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211018_exchange_seats.sql)|[LeetCode](https://leetcode.com/problems/exchange-seats)|SQL|
-|[Swap Salary](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211019_swap_salary.sql)|[LeetCode](https://leetcode.com/problems/swap-salary)|SQL|
-|[Reformat Department Table](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211022_reformat_dep_table.sql)|[LeetCode](https://leetcode.com/problems/reformat-department-table)|SQL|
-|[SqlEventsDelta](https://app.codility.com/programmers/trainings/6/sql_events_delta/)|[Codility](https://app.codility.com/programmers/trainings/6/sql_sum/)|SQL|
-|[SqlWorldCup](https://github.com/jshinm/sql_mastery/blob/main/codility/20211028_sql_worldcup.sql)|[Codility](https://app.codility.com/programmers/trainings/6/sql_world_cup/)|SQL|
-|[Weather Observation](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211021_weather%20observation.sql)|HackerRank|SQL|
-|[SQL Project Planning](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211023_sql_project_planning.sql)|HackerRank|SQL|
-|[Interviews](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211024_interviews.sql)|HackerRank|SQL|
-|[15 Days of SQL](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211029_15-days-sql.sql)|HackerRank|SQL|
-|[Japanese Population](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211029_jp_population.sql)|HackerRank|SQL|
-|[Aggregation](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211030_aggregation.sql)|HackerRank|SQL|
+|Consecutive Numbers|[LeetCode](https://leetcode.com/problems/consecutive-numbers)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211008_consecutive_numbers.sql)|
+|Employees Earning More Than Their Managers|[LeetCode](https://leetcode.com/problems/employees-earning-more-than-their-managers)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211011_employees_earning_more.sql)|
+|Duplicate Emails|[LeetCode](https://leetcode.com/problems/duplicate-emails)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_duplicate_emails.sql)|
+|Customers Who Never Order|[LeetCode](https://leetcode.com/problems/customers-who-never-order)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_customers_who_never_order.sql)|
+|Department Highest Salary|[LeetCode](https://leetcode.com/problems/department-highest-salary)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_department_highest_salary.sql)|
+|Department Top Three Salaries|[LeetCode](https://leetcode.com/problems/department-top-three-salaries)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211013_department_top_3_salaries.sql)|
+|Delete Duplicate Emails|[LeetCode](https://leetcode.com/problems/delete-duplicate-emails)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_delete_duplicate_emails.sql)|
+|Rising Temperature|[LeetCode](https://leetcode.com/problems/rising-temperature)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211012_rising_temp.sql)|
+|Trips and Users|[LeetCode](https://leetcode.com/problems/trips-and-users)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211020_trips_and_users.sql)|
+|Big Countries|[LeetCode](https://leetcode.com/problems/big-countries)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211014_big_countries.sql)|
+|Classes More Than 5 Students|[LeetCode](https://leetcode.com/problems/classes-more-than-5-students)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211017_classes_more_than_five.sql)|
+|Human Traffic of Stadium|[LeetCode](https://leetcode.com/problems/human-traffic-of-stadium)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211022_human_traffic_stadium.sql)|
+|Not Boring Movies|[LeetCode](https://leetcode.com/problems/not-boring-movies)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211018_not_boring_movies.sql)|
+|Exchange Seats|[LeetCode](https://leetcode.com/problems/exchange-seats)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211018_exchange_seats.sql)|
+|Swap Salary|[LeetCode](https://leetcode.com/problems/swap-salary)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211019_swap_salary.sql)|
+|Reformat Department Table|[LeetCode](https://leetcode.com/problems/reformat-department-table)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/leetcode_challenges/20211022_reformat_dep_table.sql)|
+|SqlEventsDelta|[Codility](https://app.codility.com/programmers/trainings/6/sql_sum/)|[SQL](https://app.codility.com/programmers/trainings/6/sql_events_delta/)|
+|SqlWorldCup|[Codility](https://app.codility.com/programmers/trainings/6/sql_world_cup/)|[SQL](https://github.com/jshinm/sql_mastery/blob/main/codility/20211028_sql_worldcup.sql)|
+|Weather Observation|HackerRank|[SQL](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211021_weather%20observation.sql)|
+|SQL Project Planning|HackerRank|[SQL](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211023_sql_project_planning.sql)|
+|Interviews|HackerRank|[SQL](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211024_interviews.sql)|
+|15 Days of SQL|HackerRank|[SQL](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211029_15-days-sql.sql)|
+|Japanese Population|HackerRank|[SQL](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211029_jp_population.sql)|
+|Aggregation|HackerRank|[SQL](https://github.com/jshinm/sql_mastery/blob/main/hacker_rank/20211030_aggregation.sql)|
 |[Acceptance Rate By Date](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211213_stratascratch_acceptance_rate_by_date.md)|[StrataStratch](https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date?python=1)|Python (Pandas)|
 |[Highest Energy Consumption](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211213_stratascratch_highest_energy_consumption.md)|[StrataStratch](https://platform.stratascratch.com/coding/10064-highest-energy-consumption?python=1)|Python (Pandas)|
 |[Finding User Purchases](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20211213_stratascratch_finding_user_purchases.md)|[StrataStratch](https://platform.stratascratch.com/coding/10322-finding-user-purchases?python=1)|Python (Pandas)|
