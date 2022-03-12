@@ -297,7 +297,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |Top Cool Votes|[StrataStratch](https://platform.stratascratch.com/coding/10060-top-cool-votes?python=1)|[Python](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220128_stratascratch_top_cool_votes.md)|
 |Order Details|[StrataStratch](https://platform.stratascratch.com/coding/9913-order-details?python=1)|[Python](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220206_stratascratch_order_details.md)|
 |Workers With The Highest Salaries|[StrataStratch](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?python=1)|[Python](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220212_stratascratch_workers_with_highest_salaries.md), [SQL](https://github.com/jshinm/sql_mastery/blob/main/startascratch/20220302_workers_highest_salary.md)|
-|Reviews of Categories|[StrataStratch](https://platform.stratascratch.com/coding/10049-reviews-of-categories)|Python, [SQL](https://github.com/jshinm/sql_mastery/blob/main/startascratch/20220309_reviews_of_categories.md)|
+|Reviews of Categories|[StrataStratch](https://platform.stratascratch.com/coding/10049-reviews-of-categories)|[Python](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220311_stratascratch_review_of_categories.md), [SQL](https://github.com/jshinm/sql_mastery/blob/main/startascratch/20220309_reviews_of_categories.md)|
 
 ### Bash & Shell
 |Problem Name|Platform|
