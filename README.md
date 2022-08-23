@@ -302,6 +302,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |Distances Traveled|[StrataStratch](https://platform.stratascratch.com/coding/10324-distances-traveled?python=1)| [Python](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220322_stratascratch_distances_traveled.md), [SQL](https://github.com/jshinm/sql_mastery/blob/main/startascratch/20220319_distances_traveled.md)|
 |Gender with Generous Reviews|[StrataStratch](https://platform.stratascratch.com/coding/10149-gender-with-generous-reviews?python=1)| [Python](https://github.com/jshinm/coding_practice/blob/master/stratascratch/20220326_stratascratch_genders_with_generous_reviews.md), [SQL](https://github.com/jshinm/sql_mastery/blob/main/startascratch/20220326_genders_with_generous_reviews.md)|
 |Rank Variance Per Country|[StrataStratch](https://platform.stratascratch.com/coding/2007-rank-variance-per-country?python=1)| [Python](), [SQL](https://github.com/jshinm/sql_mastery/blob/main/startascratch/20220410_rank_variance_per_country.md) |
+|Users By Average Session Time|[StrataStratch](https://platform.stratascratch.com/coding/2007-rank-variance-per-country?python=1)| [SQL](https://github.com/jshinm/sql_mastery/blob/main/startascratch/20220410_rank_variance_per_country.md) |
 
 ### Bash & Shell
 |Problem Name|Platform|
