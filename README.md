@@ -306,6 +306,7 @@ The following is the programming exercise that covers various `algorithms` and `
 |Finding User Purchases|[StrataStratch](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=3)| [SQL](https://github.com/jshinm/sql_mastery/blob/main/startascratch/20220630_finding_user_purchases.md) |
 |Highest Cost Orders|[StrataStratch](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=3)| [SQL](https://github.com/jshinm/sql_mastery/blob/main/startascratch/20220818_highest_cost_orders.md) |
 |Total Cost of Orders|[StrataStratch](https://platform.stratascratch.com/coding/10183-total-cost-of-orders?code_type=3)| [SQL](https://github.com/jshinm/sql_mastery/blob/main/startascratch/20220820_total_cost_of_orders.md) |
+|Ranking Most Active Guests|[StrataStratch](https://platform.stratascratch.com/coding/10159-ranking-most-active-guests?code_type=3)| [SQL](https://github.com/jshinm/sql_mastery/blob/main/startascratch/20220825_ranking_most_active_guests.md) |
 
 ### Bash & Shell
 |Problem Name|Platform|
