@@ -157,6 +157,22 @@ Github Repo: https://github.com/jshinm/hologram-biometric-signal-parsing
 <!-- https://github.com/jshinm/BIOF509_FINAL_PRJ -->
 <!-- https://github.com/jshinm/BIOF399_FINAL_PRJ -->
 
+# Software Development
+Current and past software projects.
+
+|Project|Description|Code|
+|----|----|----|
+|Item1|Desc1|Code1|
+|Item2|Desc2|Code2|
+
+# Kaggle Projects
+Some data science side projects for Kaggle challenges
+
+|Project|Code|
+|----|----|
+|Item1|Code1|
+|Item2|Code2|
+
 # Coding
 The following is the programming exercise that covers various `algorithms` and `data structures`. There is a dedicated section for `sorting`. Also contains is `sql` and `bash/shell` coding challenges.
 
