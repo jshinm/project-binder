@@ -162,8 +162,14 @@ Current and past software projects.
 
 |Project|Description|Code|
 |----|----|----|
-|Item1|Desc1|Code1|
-|Item2|Desc2|Code2|
+|WebApp for machine versus human extrapolation experiment|Desc1|Code1|
+|Web Scrapper for data mining on GitHub repository|Desc2|Code2|
+|P&L generator for tax report|Desc2|Code2|
+|Pandarize|Desc2|Code2|
+|Amortized loan simulator|Desc2|Code2|
+|Omega Messenger|Desc2|Code2|
+|FlipScope|Desc2|Code2|
+
 
 # Kaggle Projects
 Some data science side projects for Kaggle challenges
