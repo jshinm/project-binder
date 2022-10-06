@@ -169,6 +169,7 @@ Current and past software projects.
 |Amortized loan simulator|Desc2|Code2|
 |Omega Messenger|Desc2|Code2|
 |FlipScope|Desc2|Code2|
+|KeeWee|Desc2|Code2|
 
 
 # Kaggle Projects
