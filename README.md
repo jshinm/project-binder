@@ -245,6 +245,10 @@ The following is the programming exercise that covers various `algorithms` and `
 |[MaxDoubleSliceSum](https://github.com/jshinm/coding_practice/blob/master/codility/20211116_codility_maxdoubleslicesum.py)|[Codility](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)||
 |[CountFactors](https://github.com/jshinm/coding_practice/blob/master/codility/20211119_codility_count_factors.py)|[Codility](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)||
 
+### Data Structure Examples
+|Name|Example|
+|-|-|
+|Heap|[Note](/data_structure/heap.py)
 
 <!-- latex not allowed in github markdown -->
 ### Sorting ([simulation notebook](./sorting/sort_notebook.ipynb))
