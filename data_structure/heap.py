@@ -30,3 +30,14 @@
 # (e.g., heapsort), graph algorithms (e.g., Dijkstra's shortest path algorithm),
 # and memory management in operating systems.
 
+import heapq
+
+tasks = [(3, 'Task 1'), (1, 'Task 2'), (2, 'Task 3'), (1, 'Task 4')]
+
+# creates heap inplace
+heapq.heapify(tasks)
+
+next_task = heapq.heappop(tasks)
+
+# prints `Task 2` as it's the highest priority
+print(next_task)
