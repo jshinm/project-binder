@@ -41,3 +41,13 @@ next_task = heapq.heappop(tasks)
 
 # prints `Task 2` as it's the highest priority
 print(next_task)
+
+new_task = (2, 'Task 5')
+
+#adds new task to the heap
+heapq.heappush(new_task)
+
+# using a heap to implement a priority queue allows you to 
+# efficiently execute tasks in order of their priority, 
+# with O(log n) time complexity for adding and removing 
+# items from the queue.
